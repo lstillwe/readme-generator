@@ -14,9 +14,10 @@ This command-line application dynamically generates a professional README.md fil
 ## Installation
 After cloning this project use: npm install to install the project
 ## Usage
-To run the application type: node index from the project root directory.
+To run the application type: node index from the project root directory
+A movie of typical usage of this application is available [HERE](https:/github.com/lstillwe/)
 
-A movie of typical usage of this application is available [HERE](https://github.com/lstillwe/readme-generator/blob/main/images/ReadmeGeneratorRecording.mov)
+A sample of a generated REAME.md file is [HERE](https://github.com/lstillwe/readme-generator/blob/develop/generated_README.md)
 ## Contributing
 Please contribute to this project:
 
