@@ -10,18 +10,15 @@
 7. [Questions](#questions)
 
 ## Description
-This command-line application dynamically generates a professional README.md file from a user's input using the Inquirer package
+Here is a description
 ## Installation
-After cloning this project use: npm install to install the project
+Here is how you install the project : npm install
 ## Usage
-To run the application type: node index from the project root directory
-A movie of typical usage of this application is available [HERE](https:/github.com/lstillwe/)
+node index to run
 ## Contributing
-Please contribute to this project:
-
-* [Submit bugs and feature requests](https://github.com/lstillwe/readme-generator/issues), and help us verify as they are checked in
+undefined
 ## Tests
-No test are provided.
+No test provided
 ## License
 Please see https://opensource.org/licenses/BSD-3-Clause to get detailed information for this license
 
