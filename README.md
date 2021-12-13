@@ -28,5 +28,6 @@ No test are provided.
 Please see https://opensource.org/licenses/BSD-3-Clause to get detailed information for this license
 
 ## Questions
-You can find me [HERE](https://github.com/lstillwe) on Github
+You can find me [HERE](https://github.com/lstillwe) on Github.
+
 You can email me at lisastillwell@bellsouth.net if you have any additional questions.
