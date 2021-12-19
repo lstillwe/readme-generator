@@ -87,7 +87,7 @@ function generateMarkdown(data) {
 
   // add contributing
   markdown += "## " + sections[3] + "\n";
-  markdown += data.guidlines + "\n";
+  markdown += data.guidelines + "\n";
 
   // add testing
   markdown += "## " + sections[4] + "\n";
